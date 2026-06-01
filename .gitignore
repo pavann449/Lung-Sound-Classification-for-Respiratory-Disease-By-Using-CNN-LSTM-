@@ -1,0 +1,5 @@
+proj/audio_and_txt_files/
+proj/processed_features/
+proj/dataset_by_disease/
+__pycache__/
+*.pyc
